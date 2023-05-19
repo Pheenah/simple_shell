@@ -1,0 +1,15 @@
+#include <shell.h>
+#include <stdio.h>
+
+/**
+* main - sum of numbers
+*@sum - total sum of numbers equals 100
+*return :sucess always(0)
+*Description - write sume of numbers that passes betty check
+*/
+
+int main(void)
+{
+int k =50
+int n =20
+	if k
